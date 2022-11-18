@@ -1,0 +1,10 @@
+apiVersion: v1
+name: techtrends
+description: Udacity Cloud Native Application Architecture
+keywords:
+- techtrends
+version: 1.0.0
+home: https://github.com/JaureguiA4799/techtrends/tree/main/helm
+maintainers:
+- name: Abel Jauregui
+  email: abel_jauregui@ymail.com
